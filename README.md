@@ -1,4 +1,7 @@
-## Habilidades 👋
+## Perfil 👋
+
+ <p> Sou Zíltom 👋 </p>
+ <p> Estudante de Ciência da Computação interessado em aprimorar cada vez mais minhas habilidades e competências</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ziltom-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
